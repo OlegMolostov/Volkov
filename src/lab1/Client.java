@@ -41,8 +41,7 @@ public class Client {
                 ArrayList<String> passwords = list(file);
 
 
-                String username = "";
-                String password = "";
+
 
                 String serverWord;
                 for (String name : usernames
